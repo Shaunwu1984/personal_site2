@@ -1,8 +1,23 @@
 ---
-title: "Xiaoan's Website"
+title: " Xiaoan Wu"
 ---
 
-__Look at how cool this plot is!__
+I'm a Ph.D. student in Philosophy Department, Capital Normal University, China, advised by [Feng Ye](http://cnu-cn.academia.edu/FengYe).
+
+
+Right now I'm a visiting student researcher of Department of Statistics, University of California, Berkeley, advised by [Peng Ding](https://sites.google.com/site/pengdingpku/).
+
+
+=====================================================================================================================================
+![Montery, California](/Users/shaun/Desktop/website2/photo/1.jpg)
+=====================================================================================================================================
+
+---
+
+I'm interested in Causality, Statistics, Godel's incompleteness theorem and Philosophy of Death, though I confess, I'm not an expert on one of them, but I'm trying...... 
+
+---
+<center>  Life is a greater riddle than some of us think it to be  --- Joseph Conrad  </center>
 
 $$Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3$$
 

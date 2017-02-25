@@ -1,0 +1,46 @@
+---
+title: "Academic Resources"
+---
+
+## Statistics and R 
+
+1. Statistics 
+
+* [P.B. Stark](https://www.stat.berkeley.edu/~stark/Teach/index.htm)
+* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
+* [A book of Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-%20inference-book/)
+
+2. R  
+
+* [Data Visualization in R](http://nickstrayer.me/visualization_in_r/)
+
+     +  An RMarkdown presentation on the common mistakes made in visualization and how to fix them.
+     +  Includes a github repo for access to all the code.
+    
+
+* [Statistical Plots](http://bl.ocks.org/nstrayer/37a503dd1db369a8f7e3ce21757e19ee)
+
+    +  Interactive plots of things
+
+
+* [How to make an RMarkdown Website](http://nickstrayer.me/RMarkdown_Sites_tutorial/)
+
+* [a very useul tutorial of R markdown and git  ](http://dib-training.readthedocs.io/en/pub/index.html)
+
+---
+
+## Causality
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) 
+* [A Syllabus of course of causation from Rogers](/Users/shaun/Desktop/website2/resource/Causation Initial Syllabus Spring 2017.docx)
+
+---
+
+## Literature
+* William Shakespeare
+* Joseph Conrad
+* 庄子
+
+---
+
+## Yoga
+

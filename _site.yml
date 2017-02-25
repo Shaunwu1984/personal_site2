@@ -5,9 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Projects"
+    - text: "Research"
       href: projects.html
-    - text: "About Me"
+    - text: "Resources"
+      href: resources.html
+    - text: "Non Academic"
       href: about.html
 output:
   html_document:
