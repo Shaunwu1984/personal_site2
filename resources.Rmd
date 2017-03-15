@@ -9,6 +9,7 @@ title: "Academic Resources"
 * [P.B. Stark](https://www.stat.berkeley.edu/~stark/Teach/index.htm)
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [A book of Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-%20inference-book/)
+* [Think Bayes](https://sites.google.com/site/compbayes14/)
 
 2. R  
 
@@ -30,8 +31,17 @@ title: "Academic Resources"
 ---
 
 ## Causality
+1. Computer Science
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) 
+
+2. Philosophy 
 * [A Syllabus of course of causation from Rogers](/Users/shaun/Desktop/website2/resource/Causation Initial Syllabus Spring 2017.docx)
+
+* [Studying Causation](http://www.sites.hps.cam.ac.uk/research/causation.html)
+
+* Nacy Cartwright "Hunting Causes and Using Them" 
+
+* [Michael Nielsen] (http://www.michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/)
 
 ---
 
