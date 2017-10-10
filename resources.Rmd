@@ -45,6 +45,6 @@ title: "Academic Resources"
 
 ## My favourite philosophers
 
-[Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) ; [Christopher R. Hitchcock](http://www.hss.caltech.edu/content/christopher-r-hitchcock) ; [Jonathan Schaffer](http://www.jonathanschaffer.org)；[joshua knobe](http://campuspress.yale.edu/joshuaknobe/)
+[Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) ; [David Lewis](http://www.andrewmbailey.com/dkl/); [Joseph Halpern](https://www.cs.cornell.edu/home/halpern/);[Christopher R. Hitchcock](http://www.hss.caltech.edu/content/christopher-r-hitchcock) ; [Jonathan Schaffer](http://www.jonathanschaffer.org)；[Joshua Knobe](http://campuspress.yale.edu/joshuaknobe/);
 
 
