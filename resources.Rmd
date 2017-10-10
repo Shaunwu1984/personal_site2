@@ -31,10 +31,8 @@ title: "Academic Resources"
 ---
 
 ## Causality
-1. Computer Science
-* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) 
 
-2. Philosophy 
+
 * [A Syllabus of course of causation from Rogers](/Users/shaun/Desktop/website2/resource/Causation Initial Syllabus Spring 2017.docx)
 
 * [Studying Causation](http://www.sites.hps.cam.ac.uk/research/causation.html)
@@ -45,12 +43,8 @@ title: "Academic Resources"
 
 ---
 
-## Literature
-* William Shakespeare
-* Joseph Conrad
-* 庄子
+## My favourite philosophers
 
----
+[Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html) ; [Christopher R. Hitchcock](http://www.hss.caltech.edu/content/christopher-r-hitchcock) ; [Jonathan Schaffer](http://www.jonathanschaffer.org)；[joshua knobe](http://campuspress.yale.edu/joshuaknobe/)
 
-## Yoga
 
