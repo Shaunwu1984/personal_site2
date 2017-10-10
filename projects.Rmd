@@ -21,6 +21,9 @@ Week Six:       [handout](http://pan.baidu.com/s/1kV67fmv)
 
 
 
+
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <html>
 <head>
@@ -35,9 +38,6 @@ Week Six:       [handout](http://pan.baidu.com/s/1kV67fmv)
 
 <body>
 <h2>Math in TeX notation</h2>
-
-\vspace{2 cm}
-
 
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
