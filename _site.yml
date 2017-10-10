@@ -1,7 +1,7 @@
 name: "Xiaoan-website"
 output_dir: "."
 navbar:
-  title: "Xiaoan Wu's Website"
+  title: "吴小安的个人主页"
   left:
     - text: "Home"
       href: index.html
